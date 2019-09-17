@@ -1,0 +1,9 @@
+﻿l_spanish:
+ glass_ball.2.name:0 "Planet bombarded"
+ glass_ball.2.desc:0 "My [Root.GetRulerTitle], [From.GetName] is fully bombarded. What should we do next?"
+ glass_ball.2.a:0 "Glass it!"
+ glass_ball.2.a.tooltip:1 "[From.GetName] will be bombarded into a large glass ball permanently. Lives can no longer settle on it."
+ glass_ball.2.b:0 "Nuke it!"
+ glass_ball.2.b.tooltip:1 "[From.GetName] will be nuked totally. All lives are wasted."
+ glass_ball.2.c:0 "Keep bombarding."
+ 

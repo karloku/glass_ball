@@ -1,0 +1,9 @@
+﻿l_french:
+ glass_ball.2.name:0 "La planète bombardé"
+ glass_ball.2.desc:0 "Mon [Root.GetRulerTitle], [From.GetName] est bombardé totalement. Que devons-nous faire ensuite?"
+ glass_ball.2.a:0 "Vitrifier-la!"
+ glass_ball.2.a.tooltip:1 "[From.GetName] sera bombardé à un grand ballon vitré en permanence. Les vies ne peuvent plus s'y installer."
+ glass_ball.2.b:0 "Nuke-la!"
+ glass_ball.2.b.tooltip:1 "[From.GetName] sera nuké totalement. Toutes les vies sont perdus."
+ glass_ball.2.c:0 "Continuez à bombarder."
+ 

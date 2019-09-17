@@ -1,0 +1,4 @@
+﻿l_simp_chinese:
+ pc_glassed:0 "玻璃化世界"
+ pc_glassed_desc:0 "This world was glassed. No life could survive here."
+ pc_glassed_habitability:1 "Glassed World Habitability"

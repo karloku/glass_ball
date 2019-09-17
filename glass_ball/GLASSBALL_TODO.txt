@@ -1,0 +1,16 @@
+﻿Tired of landing and seizing planets that you do not want? 
+This mod allows you just to glass it into ruins! 
+
+After fully bombardment of a planet, you can choose whether to glass it or nuke it. Glassing makes a planet no longer colonizable. 
+
+Feature:
+After a full bombardment and the fortification health of the bombarded planet is reduced to 0, you can choose to
+1. glass the planet. remove all creatures from the planet, and make the planet into an uncolonizable dead world.
+2. nuke the planet. remove all creatures from the planet, and make the planet into a tomb world.
+3. do nothing
+
+TODO: 
+1 check bombarding fleet. fleet with low millitary power has no ability to perform glassing. 
+2 make a policy to set glassing allowed or prohibited. 
+3 glassing is not cheap. all rulers will blame on your savage acts. even your pop may be unhappy. 
+4 re-colonizable a glassed planet.

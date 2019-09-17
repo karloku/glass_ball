@@ -1,0 +1,9 @@
+# A planet is being bombarded
+# This = planet under bombardment
+# From = bombarding empire
+on_monthly_orbital_bombardment = {
+	events = {
+		orbital_bombardment.1
+		glass_ball.1
+	}
+}
